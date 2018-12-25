@@ -32,12 +32,16 @@ namespace WindowsFormsApplication14
 
         private void label1_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             Kulvan = true;
+=======
+            
+>>>>>>> test
         }
 
         private void label2_Click(object sender, EventArgs e)
         {
-
+            aaa = helpMe;
         }
 
         private void label3_Click(object sender, EventArgs e)
