@@ -27,7 +27,7 @@ namespace WindowsFormsApplication14
         }
 	private void pictureBox1_Click(object sender, EventArgs e)
         {
-
+            a = base;
         }
 
         private void label1_Click(object sender, EventArgs e)
