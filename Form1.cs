@@ -37,7 +37,7 @@ namespace WindowsFormsApplication14
 
         private void label2_Click(object sender, EventArgs e)
         {
-
+            Auto = 5;
         }
 
         private void label3_Click(object sender, EventArgs e)
