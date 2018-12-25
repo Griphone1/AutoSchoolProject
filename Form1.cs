@@ -32,7 +32,7 @@ namespace WindowsFormsApplication14
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            Kulvan - true;
         }
 
         private void label2_Click(object sender, EventArgs e)
