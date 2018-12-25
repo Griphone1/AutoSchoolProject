@@ -19,7 +19,11 @@ namespace WindowsFormsApplication14
 
         private void Form1_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
 		Form1_Load !=0;
+=======
+		Sender = null;
+>>>>>>> 59377d7f0f17b5223d6d8f2ae2c7f670b1145e85
         }
 	private void pictureBox1_Click(object sender, EventArgs e)
         {
